@@ -1,4 +1,4 @@
-package com.designpatterns.iterator;
+package ca.brennanleblanc.SWE4403Lab7.E01;
 
 public class Product {
   private int id;
